@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>https://iamfuzzeh.github.io/project/college-pampo/</loc>
+      <lastmod>2017-06-23T14:49:39+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://iamfuzzeh.github.io/project/college-networkfs/</loc>
+      <lastmod>2017-06-23T13:56:29+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://iamfuzzeh.github.io/project/college-videostreaming/</loc>
+      <lastmod>2017-06-23T13:56:29+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://iamfuzzeh.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -32,15 +59,6 @@
     
     <url>
     
-      <loc>https://iamfuzzeh.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://iamfuzzeh.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -50,7 +68,7 @@
     
     <url>
     
-      <loc>https://iamfuzzeh.github.io/project/deep-learning/</loc>
+      <loc>https://iamfuzzeh.github.io/project/college-taxiroutes/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +77,7 @@
     
     <url>
     
-      <loc>https://iamfuzzeh.github.io/project/example-external-project/</loc>
+      <loc>https://iamfuzzeh.github.io/project/college-juliacompiler/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,15 +122,6 @@
     
     <url>
     
-      <loc>https://iamfuzzeh.github.io/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://iamfuzzeh.github.io/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
@@ -122,27 +131,8 @@
     
     <url>
     
-      <loc>https://iamfuzzeh.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://iamfuzzeh.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://iamfuzzeh.github.io/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>https://iamfuzzeh.github.io/tags/c/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -160,18 +150,8 @@
     
     <url>
     
-      <loc>https://iamfuzzeh.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://iamfuzzeh.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://iamfuzzeh.github.io/tags/distributedsystem/</loc>
+      <lastmod>2017-06-23T13:56:29+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -190,8 +170,28 @@
     
     <url>
     
+      <loc>https://iamfuzzeh.github.io/tags/java/</loc>
+      <lastmod>2017-06-23T13:56:29+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://iamfuzzeh.github.io/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://iamfuzzeh.github.io/tags/paper/</loc>
+      <lastmod>2017-06-23T14:49:39+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -211,7 +211,7 @@
     <url>
     
       <loc>https://iamfuzzeh.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-23T14:49:39+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -221,7 +221,6 @@
     <url>
     
       <loc>https://iamfuzzeh.github.io/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -232,6 +231,16 @@
     
       <loc>https://iamfuzzeh.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://iamfuzzeh.github.io/tags/web/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

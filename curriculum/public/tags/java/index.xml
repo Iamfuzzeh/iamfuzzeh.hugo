@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Paulo Leal</title>
+    <link>https://iamfuzzeh.github.io/tags/java/</link>
+    <description>Recent content in Java on Paulo Leal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Paulo Leal</copyright>
+    <lastBuildDate>Fri, 23 Jun 2017 13:56:29 +0100</lastBuildDate>
+    <atom:link href="/tags/java/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Network File System</title>
+      <link>https://iamfuzzeh.github.io/project/college-networkfs/</link>
+      <pubDate>Fri, 23 Jun 2017 13:56:29 +0100</pubDate>
+      
+      <guid>https://iamfuzzeh.github.io/project/college-networkfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Streaming</title>
+      <link>https://iamfuzzeh.github.io/project/college-videostreaming/</link>
+      <pubDate>Fri, 23 Jun 2017 13:56:29 +0100</pubDate>
+      
+      <guid>https://iamfuzzeh.github.io/project/college-videostreaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Database Topics</title>
+      <link>https://iamfuzzeh.github.io/project/college-taxiroutes/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamfuzzeh.github.io/project/college-taxiroutes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

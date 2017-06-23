@@ -1,25 +1,21 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2017-06-23T13:56:29+01:00"
 
 # Project title.
-title = "External Project"
+title = "Video Streaming"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "Implementation of a video streaming distributed system based on pubsub model. Java, ZeroC Ice."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "zeroc.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["demo"]
+tags = ["distributedsystem", "java"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
-
-# Does the project detail page use math formatting?
-math = false
+external_link = "https://github.com/Iamfuzzeh/college-VideoStreaming"
 
 +++
-

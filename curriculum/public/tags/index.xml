@@ -21,20 +21,20 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://iamfuzzeh.github.io/tags/deep-learning/</link>
+      <title>C</title>
+      <link>https://iamfuzzeh.github.io/tags/c/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://iamfuzzeh.github.io/tags/deep-learning/</guid>
+      <guid>https://iamfuzzeh.github.io/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://iamfuzzeh.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Distributedsystem</title>
+      <link>https://iamfuzzeh.github.io/tags/distributedsystem/</link>
+      <pubDate>Fri, 23 Jun 2017 13:56:29 +0100</pubDate>
       
-      <guid>https://iamfuzzeh.github.io/tags/demo/</guid>
+      <guid>https://iamfuzzeh.github.io/tags/distributedsystem/</guid>
       <description></description>
     </item>
     
@@ -48,11 +48,38 @@
     </item>
     
     <item>
+      <title>Java</title>
+      <link>https://iamfuzzeh.github.io/tags/java/</link>
+      <pubDate>Fri, 23 Jun 2017 13:56:29 +0100</pubDate>
+      
+      <guid>https://iamfuzzeh.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jekyll</title>
       <link>https://iamfuzzeh.github.io/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://iamfuzzeh.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>https://iamfuzzeh.github.io/tags/paper/</link>
+      <pubDate>Fri, 23 Jun 2017 14:49:39 +0100</pubDate>
+      
+      <guid>https://iamfuzzeh.github.io/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://iamfuzzeh.github.io/tags/web/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamfuzzeh.github.io/tags/web/</guid>
       <description></description>
     </item>
     

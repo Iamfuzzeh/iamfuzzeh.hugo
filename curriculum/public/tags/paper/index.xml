@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper on Paulo Leal</title>
+    <link>https://iamfuzzeh.github.io/tags/paper/</link>
+    <description>Recent content in Paper on Paulo Leal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Paulo Leal</copyright>
+    <lastBuildDate>Fri, 23 Jun 2017 14:49:39 +0100</lastBuildDate>
+    <atom:link href="/tags/paper/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Named Entity Identification (PAMPO)</title>
+      <link>https://iamfuzzeh.github.io/project/college-pampo/</link>
+      <pubDate>Fri, 23 Jun 2017 14:49:39 +0100</pubDate>
+      
+      <guid>https://iamfuzzeh.github.io/project/college-pampo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
